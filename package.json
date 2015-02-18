@@ -1,0 +1,15 @@
+{
+  "name": "reactTutorial",
+  "version": "1.0.0",
+  "description": "Example comment view",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jimmy Gong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
